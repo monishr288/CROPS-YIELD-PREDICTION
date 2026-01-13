@@ -70,6 +70,8 @@
   
 
 ### This project combines agricultural science with modern web technologies to create a practical tool for farmers and agricultural planners, making yield prediction accessible and visually engaging.
+## OUTPUT
+https://cyp-crop-yield-predictor.netlify.app/
 ## Output Images
 <img width="1893" height="994" alt="image" src="https://github.com/user-attachments/assets/58d8dfd1-a0c2-445d-8940-625eb2efa855" />
 <img width="1890" height="993" alt="image" src="https://github.com/user-attachments/assets/010f8d99-9abd-4de9-87b9-286c4d574d8a" />
